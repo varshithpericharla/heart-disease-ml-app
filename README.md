@@ -85,7 +85,7 @@ Dataset author: arezaei81, License: Public Domain (check Kaggle for latest licen
 
 For questions, suggestions, or support, feel free to open an issue on this repository or contact me directly:
 
-- **GitHub:** [https://github.com/nadamantena](https://github.com/varshithpericharla)
+- **GitHub:** [https://github.com/varshithpericharla](https://github.com/varshithpericharla)
 - **Email:** varshithvarma334@gmail.com
 
 I welcome feedback and contributions!
